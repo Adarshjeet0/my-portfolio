@@ -109,9 +109,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarshjeetchauhan&show_icons=true&theme=radical" alt="adarshjeetchauhan stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshjeet0&show_icons=true&theme=radical" alt="adarshjeetchauhan stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshjeetchauhan&theme=radical" alt="adarshjeetchauhan streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshjeet0&theme=radical" alt="adarshjeetchauhan streak" />
 </p>
 
 ---
@@ -119,9 +119,9 @@
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="mailto:adarshjeetchauhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="mailto:adarshjeetc@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/adarshjeet-chauhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/adarshjeetchauhan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/adarshjeet0"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
