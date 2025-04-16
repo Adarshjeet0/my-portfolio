@@ -111,7 +111,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adarshjeet0&show_icons=true&theme=radical" alt="adarshjeetchauhan stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshjeet0&theme=radical" alt="adarshjeetchauhan streak" />
+  <img src="https://streak-stats.demolab.com?user=adarshjeet0&theme=dark&hide_border=true" alt="adarshjeetchauhan streak" />
 </p>
 
 ---
